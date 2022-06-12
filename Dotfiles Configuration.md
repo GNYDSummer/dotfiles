@@ -16,7 +16,7 @@ git clone --depth 1 https://github.com/seagle0128/.emacs.d.git ~/.emacs.d
 ```
 
 [1]: https://github.com/seagle0128/.emacs.d	"Centaur Emacs"
-
+Link: https://github.com/seagle0128/.emacs.d "Centaur Emacs" 
 
 
 ## Homebrew
@@ -54,7 +54,7 @@ pip install percol
 And so on…
 
 [2]: https://github.com/zilongshanren/dotfiles	"zilongshanren’s dotfiles"
-
+Link: https://github.com/zilongshanren/dotfiles	"zilongshanren's dotfiles"
 
 
 ## Neovim
@@ -97,7 +97,12 @@ DIInstall xxx(debuger)
 [5]: https://github.com/glepnir/jarvim
 [6]: https://github.com/ayamir/nvimdots
 [7]: https://gist.github.com/zprhhs/9630dd6d666995236319afb35293a77b
-
+Link: 
+   https://github.com/ravenxrz/dotfiles/tree/master/nvim  "Neovim Configuration"
+   https://github.com/theniceboy/nvim/blob/master/README_cn.md
+   https://github.com/glepnir/jarvim
+   https://github.com/ayamir/nvimdots
+   https://gist.github.com/zprhhs/9630dd6d666995236319afb35293a77b
 
 
 ## Tmux
